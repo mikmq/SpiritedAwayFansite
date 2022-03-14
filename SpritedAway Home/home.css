@@ -1,6 +1,7 @@
 body{
     background-color: ghostwhite;
     border-style: solid;
+    border-color: white;
 }
 
 img{
@@ -8,20 +9,21 @@ img{
 }
 
 h1 {
-  color: navy;
+  color: darkslateblue;
   margin-left: 20px;
     margin-left: 10px;
 }
 
 h2 {
-  color: royalblue;
+  color: lightcoral;
     border-style: outset;
   border-color: white;
     margin-left: 10px;
 }
 
 p{
-    margin-left: 15px; 
+    margin-left: 15px;
+    color: darkslateblue;
 }
 
 
@@ -29,19 +31,3 @@ img{
      margin-left: 10px;
 }
 
-h1 {
-  color: navy;
-  margin-left: 20px;
-    margin-left: 10px;
-}
-
-h2 {
-  color: royalblue;
-    border-style: outset;
-  border-color: white;
-    margin-left: 10px;
-}
-
-p{
-    margin-left: 15px; 
-}
