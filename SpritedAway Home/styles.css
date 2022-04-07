@@ -37,8 +37,6 @@ li a:hover:not(.active) {
 
 body{
     background-color: ghostwhite;
-    border-style: solid;
-    border-color: white;
 }
 
 img{

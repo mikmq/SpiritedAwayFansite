@@ -37,14 +37,13 @@ li a:hover:not(.active) {
 
 body{
     background-color: ghostwhite;
-    border-style: solid;
-    border-color: white;
 }
 
 img{
     margin-left: 10px;
     margin-right: 10px;
     margin-top: 10px;
+    padding-bottom: 10px;
     
 }
 
@@ -61,7 +60,7 @@ h2 {
     color: lightcoral;
     border-style: outset;
     border-color:;
-    margin-left: 10px;
+    margin-left: 5px;
 }
 p1{
     font-family: Arial, Helvetica, sans-serif;
@@ -74,13 +73,6 @@ p{
     line-height: 23px;
     margin-left: 15px;
     color: darkslateblue;
-}
-
-
-img{
-    padding-top: 10px;
-    padding-bottom: 10px;
-    margin-left: 10px;
 }
 
 <div class="container">
