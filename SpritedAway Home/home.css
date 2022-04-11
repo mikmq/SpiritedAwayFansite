@@ -40,46 +40,54 @@ body{
     background-color: ghostwhite;
 }
 
-img{
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-top: 10px;
+
+
+.homeimg1{
+   padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    margin-left: 20px; 
+}
+
+.logoimg{
     
-}
-
-h1 {
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: left;
-    color: darkslateblue;
-    margin-left: 20px;
-    margin-left: 10px;
-    color: white
-}
-
-h2 {
-    font-family: Arial, Helvetica, sans-serif;
-    color: lightcoral;
-    border-bottom-style:solid;
-    border-color:gainsboro;
-    margin-left: 10px;
-}
-
-p{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 12px;
-    line-height: 23px;
-    margin-left: 15px;
-    color: darkslateblue;
-    color: white
-}
-
-
-img{
     padding-top: 10px;
     padding-bottom: 10px;
     margin-left: 10px;
     border-radius: 12px;
 }
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #52b2cf;
+    margin-left: 20px;
+    margin-left: 10px;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #52b2cf;
+    border-bottom-style:solid;
+    border-color:#52b2cf;
+    margin-left: 10px;
+    padding-left:20px;
+    padding-right:30px;
+    padding-top: 10px;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 28px;
+    margin-left: 15px;
+    color: darkslateblue;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}S
+
 
 <div class="container" >
   <div class="row">
@@ -91,6 +99,69 @@ img{
     </div>
   </div>
 </div>
+
+
+
+/* Gallery test 
+<style>
+div.gallery {
+  margin: 5px;
+  border:;
+  float:left;
+  width: 300px;
+  padding: 20px;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  margin-left: 25px;
+
+}
+
+div.gallery img {
+  width: 300px;
+  height:200px;
+  border-radius: 5px;
+}
+    
+div.gallery img:hover {
+  border:;
+}
+
+div.desc {
+  text-align: center;
+}       
+</style>
+    
+<body>
+
+<div class="gallery" >
+  <a target="_blank" href="FilmPlot.html">
+    <img src="images/away01.jpg" alt="Standing at Bath house" width="600" height="400">
+  </a>
+    <div class="overlay">
+    <div class="text">Film Plot</div>
+  </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="cast.html">
+    <img src="images/Cast%20icon.png" alt="Chihiro and Dragon" width="600" height="400">
+  </a>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="prod.html">
+    <img src="images/framewhatdowantscene.jpg" alt="Frame of Film" width="600" height="400">
+  </a>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="recept.html">
+    <img src="images/reactionim.jpg" alt="Mountains" width="600" height="400">
+  </a>
+</div>
+
+</body>
+*/
 
 
 

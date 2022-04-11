@@ -40,16 +40,16 @@ body{
 }
 
 img{
+    padding-top: 10px;
+    padding-bottom: 10px;
     margin-left: 10px;
-    margin-right: 10px;
-    margin-top: 10px;
-    
+    border-radius: 15px;
 }
 
 h1 {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    color: darkslateblue;
+    color: lightsteelblue;
     margin-left: 20px;
     margin-left: 10px;
 }
@@ -57,24 +57,29 @@ h1 {
 h2 {
     font-family: Arial, Helvetica, sans-serif;
     color: lightcoral;
+    text-align: center;
     border-style: outset;
     border-color:;
+    margin-bottom:0px;
+    margin-left: 10px;
+}
+
+h3{
+font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: darkgrey;
+    margin-left: 20px;
     margin-left: 10px;
 }
 
 p{
     font-family: Arial, Helvetica, sans-serif;
     margin-left: 15px;
+    line-height: 25px;
     font-size: 14px;
     color: darkslateblue;
 }
 
-
-img{
-    padding-top: 10px;
-    padding-bottom: 10px;
-    margin-left: 10px;
-}
 
 <div class="container">
   <div class="row">

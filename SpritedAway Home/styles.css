@@ -40,23 +40,23 @@ body{
 }
 
 img{
+    padding-top: 10px;
+    padding-bottom: 10px;
     margin-left: 10px;
-    margin-right: 10px;
-    margin-top: 10px;
-    
+    border-radius: 12px;
 }
 
 h1 {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    color: darkslateblue;
+    color: lightsteelblue;
     margin-left: 20px;
     margin-left: 10px;
 }
 
 h2 {
     font-family: Arial, Helvetica, sans-serif;
-    color: lightcoral;
+    color:lightcoral;
     border-style: outset;
     border-color:;
     margin-left: 10px;
@@ -68,17 +68,12 @@ p1{
 
 p{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 13px;
-    line-height: 30px;
-    line-height: 23px;
+    font-size: 15px;
+    line-height: 25px;
     margin-left: 15px;
     color: darkslateblue;
 }
 
-
-img{
-     margin-left: 10px;
-}
 
 <div class="container">
   <div class="row">
